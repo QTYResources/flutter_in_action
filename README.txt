@@ -12,3 +12,4 @@ Chapter03
     03. counter_widget                                              ===> StatefulWidget的使用
     04. manager_widget                                              ===> widget管理（自身管理、父widget管理子widget和混合管理）
     05. cupertino_widget                                            ===> 创建iOS风格的应用
+    06. use_text                                                    ===> 文本、字体样式的使用
