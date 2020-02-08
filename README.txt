@@ -14,3 +14,4 @@ Chapter03
     05. cupertino_widget                                            ===> 创建iOS风格的应用
     06. use_text                                                    ===> 文本、字体样式的使用
     07. use_button                                                  ===> 使用按钮控件
+    08. use_image                                                   ===> 使用图片控件
