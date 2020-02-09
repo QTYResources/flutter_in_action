@@ -23,3 +23,5 @@ Chapter04   布局类Widgets
     02. flex                                                        ===> 弹性布局（Flex)
     03. wrap_flow                                                   ===> 流式布局（Wrap、Flow）
     04. stack_positioned                                            ===> 层叠布局（Stack、Positioned）
+    05. align_center                                                ===> 对齐与相对定位（Align）
+    
