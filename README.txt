@@ -28,4 +28,5 @@ Chapter04   布局类Widgets
 Chapter05 容器类Widget
     01. padding                                                     ===> 填充（Padding）
     02. constrained_size_box                                        ===> 尺寸限制类容器（ConstrainedBox、SizeBox）
+    03. decoratedbox                                                ===> 装饰容器DecoratedBox
     
