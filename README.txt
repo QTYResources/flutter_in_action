@@ -32,3 +32,5 @@ Chapter05 容器类Widget
     04. transform                                                   ===> 变换（Transform）      
     05. container_padding_margin                                    ===> Container、Padding、Margin的使用        
     06. scaffold_tabbar                                             ===> Scaffold、TabBar、底部导航
+    07. clip                                                        ===> 剪裁（Clip）
+    
