@@ -39,3 +39,7 @@ Chapter06 可滚动组件
     02. listview                                                    ===> ListView的使用
     03. gridview                                                    ===> GridView的使用
     04. customscrollview                                            ===> CustomScrollView的使用
+    05. scrollcontroller                                            ===> 滚动监听及控制
+
+Chapter07   功能型Widget简介
+    01. 
