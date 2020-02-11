@@ -43,4 +43,5 @@ Chapter06 可滚动组件
 
 Chapter07   功能型Widget简介
     01. willpopscope                                                ===> 导航返回拦截（WillPopScope）
+    02. inherited_widget                                            ===> 数据共享（InheritedWidget）
     
