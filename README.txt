@@ -47,4 +47,7 @@ Chapter07   功能型Widget简介
     03. provider                                                    ===> 跨组件状态共享（Provider）
     04. color_theme                                                 ===> 颜色和主题
     05. update_ui_async                                             ===> 异步UI更新（FutureBuilder、StreamBuilder）
-    
+    06. dialog                                                      ===> 使用对话框
+
+Chapter08   事件处理与通知      
+    01. 
