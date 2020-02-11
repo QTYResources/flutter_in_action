@@ -51,3 +51,5 @@ Chapter07   功能型Widget简介
 
 Chapter08   事件处理与通知      
     01. pointer_event                                               ===> 原始指针事件处理
+    02. gesture_detector                                            ===> 手势识别
+    
