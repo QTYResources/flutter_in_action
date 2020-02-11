@@ -42,4 +42,5 @@ Chapter06 可滚动组件
     05. scrollcontroller                                            ===> 滚动监听及控制
 
 Chapter07   功能型Widget简介
-    01. 
+    01. willpopscope                                                ===> 导航返回拦截（WillPopScope）
+    
