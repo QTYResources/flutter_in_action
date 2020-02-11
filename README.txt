@@ -50,4 +50,4 @@ Chapter07   功能型Widget简介
     06. dialog                                                      ===> 使用对话框
 
 Chapter08   事件处理与通知      
-    01. 
+    01. pointer_event                                               ===> 原始指针事件处理
