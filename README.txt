@@ -56,4 +56,5 @@ Chapter08   事件处理与通知
     04. notification                                                ===> Notification的使用
 
 Chapter09   动画
-    01. 
+    01. animation_struct                                            ===> 动画基本结构及状态监听
+    
