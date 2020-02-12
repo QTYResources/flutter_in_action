@@ -59,5 +59,7 @@ Chapter09   动画
     01. animation_struct                                            ===> 动画基本结构及状态监听
     02. route_animation                                             ===> 自定义路由切换动画
     03. hero_animation                                              ===> Hero动画
+    04. stagger_animation                                           ===> 交织动画
     
+
 
