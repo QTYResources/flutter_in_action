@@ -66,3 +66,5 @@ Chapter09   动画
 Chapter10   自定义组件
     01. gradient_button                                             ===> 组合现有组件
     02. turn_box                                                    ===> 组合实例：TurnBox
+    03. custom_paint_canvas                                         ===> 自绘组件（CustomPaint与Canvas）
+    
