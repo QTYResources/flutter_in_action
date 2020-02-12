@@ -61,5 +61,6 @@ Chapter09   动画
     03. hero_animation                                              ===> Hero动画
     04. stagger_animation                                           ===> 交织动画
     05. animation_switcher                                          ===> 通用”切换动画“组件（AnimationSwitcher）    
-
+    06. custom_animation                                            ===> 动画过渡组件
+    
 
