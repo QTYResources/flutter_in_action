@@ -71,3 +71,5 @@ Chapter10   自定义组件
 
 Chapter11   文件操作与网络请求
     01. file_operation                                              ===> 文件操作
+    02. http_request                                                ===> 通过HttpClient发起HTTP请求
+    
