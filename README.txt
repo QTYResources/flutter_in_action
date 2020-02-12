@@ -53,4 +53,7 @@ Chapter08   事件处理与通知
     01. pointer_event                                               ===> 原始指针事件处理
     02. gesture_detector                                            ===> 手势识别
     03. event_bus                                                   ===> 事件总线
-    
+    04. notification                                                ===> Notification的使用
+
+Chapter09   动画
+    01. 
