@@ -77,4 +77,6 @@ Chapter11   文件操作与网络请求
     05. websockets                                                  ===> 使用WebSockets
     06. socket_api                                                  ===> 使用Socket API
     07. json_model                                                  ===> Json转Dart Model类
-    
+
+Chapter12   包与插件
+    01. battery_level                                               ===> 使用平台特定代码获取电池电量
