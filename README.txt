@@ -76,3 +76,5 @@ Chapter11   文件操作与网络请求
     04. block_download                                              ===> 实例：Http分块下载
     05. websockets                                                  ===> 使用WebSockets
     06. socket_api                                                  ===> 使用Socket API
+    07. json_model                                                  ===> Json转Dart Model类
+    
