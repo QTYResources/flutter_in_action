@@ -74,4 +74,5 @@ Chapter11   文件操作与网络请求
     02. http_request                                                ===> 通过HttpClient发起HTTP请求
     03. dio_http                                                    ===> Http请求-Dio http库
     04. block_download                                              ===> 实例：Http分块下载
+    05. websocket                                                   ===> 使用WebSockets
     
