@@ -80,5 +80,8 @@ Chapter11   文件操作与网络请求
 
 Chapter12   包与插件
     01. battery_level                                               ===> 使用平台特定代码获取电池电量
-    02. textture_platformview                                       ===> 使用摄像头
+    02. textture_platformview                                       ===> 使用摄像头和WebView
+
+Chapter13   国际化
+    01. localizations                                               ===> 让App支持多语言
     
