@@ -84,4 +84,7 @@ Chapter12   包与插件
 
 Chapter13   国际化
     01. localizations                                               ===> 让App支持多语言
+
+Chapter15   一个完整的Flutter应用
+    01. github_client                                               ===> GitHub客户端
     
